@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+
+![image of yaktocat](https://octodex.github.com/images/yaktocat.png)
