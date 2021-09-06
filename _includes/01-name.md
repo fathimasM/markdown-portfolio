@@ -1,3 +1,2 @@
-title: Welcome to my portfolio!
-theme: jekyll-theme-cayman
+
 ![image of yaktocat](https://octodex.github.com/images/yaktocat.png)
